@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/produtos/contarPorQuantidade/43
+Content-Type: application/json

@@ -1,0 +1,6 @@
+PATCH http://localhost:8080/api/produtos/atualizarParcial/12
+Content-Type: application/json
+
+{
+  "preco": -100
+}

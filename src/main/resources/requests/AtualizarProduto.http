@@ -1,0 +1,9 @@
+PUT http://localhost:8080/api/produtos/atualizar/12
+Content-Type: application/json
+
+{
+  "nome": "Coxinha",
+  "descricao": "Coxinha",
+  "preco": 15,
+  "quantidadeEstoque": 200
+}
